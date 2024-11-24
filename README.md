@@ -2,6 +2,7 @@
 
 ![DeepQuantumNetwork Banner](https://img.shields.io/badge/DeepQuantumNetwork-%F0%9F%8C%90%20AI%20Future-blue)
 
+
 Bem-vindo ao repositório oficial do **DeepQuantumNetwork**, uma revolução no campo da Inteligência Artificial (IA) e Machine Learning (ML). Este documento oferece uma visão geral de nossa tecnologia inovadora, destacando suas características e impactos sem entrar em detalhes técnicos proprietários.
 
 ---
@@ -24,6 +25,11 @@ Bem-vindo ao repositório oficial do **DeepQuantumNetwork**, uma revolução no 
 ### 🚀 **Inovação e Escalabilidade**
 - **Evolução Contínua**: Capacidade de se adaptar e evoluir continuamente com base nas necessidades e mudanças do ambiente.
 - **Eficiência**: Alta eficiência no processamento de dados e gerenciamento automático de operações.
+
+![python_1GAB6Bk9hf](https://github.com/user-attachments/assets/2859467f-f8bd-4ee1-a03c-90252d1c38e1)
+![python_3xTjGBCOns](https://github.com/user-attachments/assets/709bfffb-cced-4bae-b3c0-7bfc12951812)
+![python_bWs2oyBVCH](https://github.com/user-attachments/assets/505b2df4-29e2-459b-a5ba-947fc05a755a)
+![python_TRbrJzZ6F7](https://github.com/user-attachments/assets/6e313cad-01d1-4133-9e5b-aba1591868fb)
 
 ---
 
